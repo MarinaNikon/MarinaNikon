@@ -17,7 +17,8 @@
 - 📈 I’m interested in enhancing my skills while gaining practical experience in data analysis, web development, and testing
 - 💬 I’m seeking work in the general IT field and/or Software Development, data analysis, web development, and testing. 
 - 📫 How to reach me: nikmar1379@gmail.com
-- my projects:
+
+- All these projects I did during my online study at ATU.:
   - [Filtering_an_Image](https://github.com/MarinaNikon/Filtering_an_Image)
   - [Computer_Architecture](https://github.com/MarinaNikon/Computer_Architecture)
   - [Advanced_Object_Oriented](https://github.com/MarinaNikon/Advanced_Object_Oriented)
