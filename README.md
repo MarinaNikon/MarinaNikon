@@ -17,7 +17,13 @@
 - 📈 I’m interested in enhancing my skills while gaining practical experience in data analysis, web development, and testing
 - 💬 I’m seeking work in the general IT field and/or Software Development, data analysis, web development, and testing. 
 - 📫 How to reach me: nikmar1379@gmail.com
-
+- my projects:
+  - [Filtering_an_Image](https://github.com/MarinaNikon/Filtering_an_Image)
+  - [Computer_Architecture](https://github.com/MarinaNikon/Computer_Architecture)
+  - [Advanced_Object_Oriented](https://github.com/MarinaNikon/Advanced_Object_Oriented)
+  - [Database](https://github.com/MarinaNikon/Database)
+  - [Benchmarking](https://github.com/MarinaNikon/Benchmarking)
+  - [Network_Technologies](https://github.com/MarinaNikon/Network_Technologies)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marinanikon&show_icons=true&locale=en&layout=compact" alt="marinanikon" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marinanikon&show_icons=true&locale=en" alt="marinanikon" /></p>
