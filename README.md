@@ -18,7 +18,7 @@
 - 💬 I’m seeking work in the general IT field and/or Software Development, data analysis, web development, and testing. 
 - 📫 How to reach me: nikmar1379@gmail.com
 
-- All these projects I did during my online study at ATU.:
+- _All these projects I did during my online study at ATU:_
   - [Filtering_an_Image](https://github.com/MarinaNikon/Filtering_an_Image)
   - [Computer_Architecture](https://github.com/MarinaNikon/Computer_Architecture)
   - [Advanced_Object_Oriented](https://github.com/MarinaNikon/Advanced_Object_Oriented)
