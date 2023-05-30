@@ -18,3 +18,9 @@
 - 💬 I’m seeking work in the general IT field and/or Software Development, data analysis, web development, and testing. 
 - 📫 How to reach me: nikmar1379@gmail.com
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marinanikon&show_icons=true&locale=en&layout=compact" alt="marinanikon" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marinanikon&show_icons=true&locale=en" alt="marinanikon" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marinanikon&" alt="marinanikon" /></p>
+
