@@ -31,6 +31,9 @@ Extended description
   - [Network_Technologies](https://github.com/MarinaNikon/Network_Technologies)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marinanikon&show_icons=true&locale=en&layout=compact" alt="marinanikon" /></p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marinanikon&layout=compact&theme=radical)
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marinanikon&show_icons=true&locale=en" alt="marinanikon" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marinanikon&" alt="marinanikon" /></p>
