@@ -38,6 +38,20 @@ Extended description
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinanikon&layout=compact&theme=radical" />
 </p>
 
+<p align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/
+            ?username=marinanikon
+            &layout=compact
+            &theme=tokyonight
+            &langs_count=6
+            &hide=html,css
+            &exclude_repo=Database,Network_Technologies"
+       alt="Top Languages"
+  />
+</p>
+
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marinanikon&show_icons=true&locale=en" alt="marinanikon" /></p>
 
