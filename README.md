@@ -31,25 +31,17 @@ Extended description
   - [Network_Technologies](https://github.com/MarinaNikon/Network_Technologies)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marinanikon&show_icons=true&locale=en&layout=compact" alt="marinanikon" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marinanikon&layout=compact&theme=radical)
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinanikon&layout=compact&theme=radical" />
-</p>
 
 <p align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/
-            ?username=marinanikon
-            &layout=compact
-            &theme=tokyonight
-            &langs_count=6
-            &hide=html,css
-            &exclude_repo=Database,Network_Technologies"
-       alt="Top Languages"
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=marinanikon&layout=compact&theme=radical&langs_count=6&hide=html,css&exclude_repo=Database,Network_Technologies"
+    alt="Top Languages"
   />
 </p>
+
+
 
 
 
