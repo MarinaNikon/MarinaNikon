@@ -29,7 +29,7 @@ Extended description
   - [Database](https://github.com/MarinaNikon/Database)
   - [Benchmarking](https://github.com/MarinaNikon/Benchmarking)
   - [Network_Technologies](https://github.com/MarinaNikon/Network_Technologies)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marinanikon&show_icons=true&locale=en&layout=compact" alt="marinanikon" /></p>
+
 
 
 
@@ -39,7 +39,7 @@ Extended description
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-b2e6p7s8q-marinanikons-projects.vercel.app/api/top-langs?username=marinanikon&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats-b2e6p7s8q-marinanikons-projects.vercel.app/api/top-langs?username=marinanikon&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
