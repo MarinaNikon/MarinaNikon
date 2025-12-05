@@ -43,6 +43,13 @@ Extended description
 
 
 
+<p align="center">
+  <img src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs?username=marinanikon&layout=compact&theme=radical" />
+</p>
+
+
+
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marinanikon&show_icons=true&locale=en" alt="marinanikon" /></p>
