@@ -4,7 +4,7 @@ Update README.md
 Extended description
 <h1 align="center">Hi 👋, I'm MarinaNikon</h1>
 
-<img align="center" alt="Coding" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,15 +35,15 @@ Extended description
 
 
 <p align="center">
-  <img src="https://github-readme-stats-b2e6p7s8q-marinanikons-projects.vercel.app/api?username=marinanikon&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats-b2e6p7s8q-marinanikons-projects.vercel.app/api?username=marinanikon&show_icons=true&theme=gruvbox" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-b2e6p7s8q-marinanikons-projects.vercel.app/api/top-langs?username=marinanikon&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats-b2e6p7s8q-marinanikons-projects.vercel.app/api/top-langs?username=marinanikon&layout=compact&theme=gruvbox" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marinanikon&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marinanikon&theme=gruvbox" />
 </p>
 
 
