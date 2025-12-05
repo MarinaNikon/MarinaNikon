@@ -32,15 +32,15 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats-b2e6p7s8q-marinanikons-projects.vercel.app/api?username=marinanikon&show_icons=true&theme=gruvbox" />
+  <img src="https://github-readme-stats-b2e6p7s8q-marinanikons-projects.vercel.app/api?username=marinanikon&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-b2e6p7s8q-marinanikons-projects.vercel.app/api/top-langs?username=marinanikon&layout=compact&theme=gruvbox" />
+  <img src="https://github-readme-stats-b2e6p7s8q-marinanikons-projects.vercel.app/api/top-langs?username=marinanikon&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marinanikon&theme=gruvbox" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marinanikon&theme=tokyonight" />
 </p>
 
 
