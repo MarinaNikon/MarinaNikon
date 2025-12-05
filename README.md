@@ -35,26 +35,19 @@ Extended description
 
 
 <p align="center">
-  <img src="https://github-readme-stats-b2e6p7s8q-marinanikons-projects.vercel.app/api?username=marinanikon&show_icons=true&theme=merko" />
+  <img src="https://github-readme-stats-b2e6p7s8q-marinanikons-projects.vercel.app/api?username=marinanikon&show_icons=true&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-b2e6p7s8q-marinanikons-projects.vercel.app/api/top-langs?username=marinanikon&layout=compact&theme=merko" />
+  <img src="https://github-readme-stats-b2e6p7s8q-marinanikons-projects.vercel.app/api/top-langs?username=marinanikon&layout=compact&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marinanikon&theme=merko" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marinanikon&theme=dark" />
 </p>
 
 
 
-
-
-
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marinanikon&show_icons=true&locale=en" alt="marinanikon" /></p>
 
 
 
