@@ -1,102 +1,3 @@
-
-<h1 align="center">Hi 👋, I'm MarinaNikon</h1>
-
-![Моя картинка](kartinka.webp)
-
-<img align="center" alt="Coding" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
-
-
-<h3 align="left">Languages and Tools:</h3>
-
-
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
-</a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-</a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-</a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
-</a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-</a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-</a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-
-- 👩‍💻 Hi, I’m **@MarinaNikon**
-
-- 🏡 I'm currently looking after my lovely kids and work remoutly, part time. dreaming to return back to work and join a team of experienced data analyst, where I can apply my knowledge, and learn new things.
-- 👩‍🎓 I recently received a Postgraduate Diploma in Data Science from the Data Science Institute, with a focus on R and Python programming.
-- 👩‍🎓 I received Higher Diploma in Science in Software Development (NFQ Level 8), from Atlantic Technological University / GMIT.
-- 🤔 I’m looking for any interesting collaborative opportunities as Junior Data Analyst, Skilled in Excel, SQL & Data Visualization (Power BI)
-- 📈 I’m interested in enhancing my skills while gaining practical experience in data analysis. While I’m new to client work, I’ve built solid skills through study and hands-on practice with data cleaning, analysis, and reporting.
-- 📫 How to reach me: marinanikon07@gmail.com
-
-- _All these projects I did during my study at ATU:_
-  - [Filtering_an_Image](https://github.com/MarinaNikon/Filtering_an_Image)
-  - [Computer_Architecture](https://github.com/MarinaNikon/Computer_Architecture)
-  - [Advanced_Object_Oriented](https://github.com/MarinaNikon/Advanced_Object_Oriented)
-  - [Database](https://github.com/MarinaNikon/Database)
-  - [Benchmarking](https://github.com/MarinaNikon/Benchmarking)
-  - [Network_Technologies](https://github.com/MarinaNikon/Network_Technologies)
-
-<p align="center">
-  <img src="https://github-readme-stats-b2e6p7s8q-marinanikons-projects.vercel.app/api?username=marinanikon&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-b2e6p7s8q-marinanikons-projects.vercel.app/api/top-langs?username=marinanikon&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marinanikon&theme=tokyonight" />
-</p>
-
-
-<h3 align="left">Languages & Tools</h3>
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-</p>
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <h1 align="center">Hi 👋, I'm MarinaNikon</h1>
 
 ![Моя картинка](kartinka.webp)
@@ -118,12 +19,15 @@
 
 ---
 
-- 👩‍💻 I’m **@MarinaNikon**
-- 🏡 Currently looking after my kids and working remotely part-time, dreaming to return to a data analyst team.
-- 👩‍🎓 Postgraduate Diploma in Data Science (R & Python)
-- 👩‍🎓 Higher Diploma in Software Development (NFQ Level 8)
-- 🤔 Looking for collaborative opportunities as Junior Data Analyst
-- 📫 Reach me: marinanikon07@gmail.com
+- 👋 Hi, I’m **@MarinaNikon**
+
+- 🏡 Currently working remotely part-time while balancing family life. I’m motivated to return to a professional environment and join an experienced Data Analytics team where I can contribute, grow, and learn.
+- 👩‍🎓 I hold a Postgraduate Diploma in Data Science from the Data Science Institute, with a focus on Python and R programming.
+- 👩‍🎓 I also completed a Higher Diploma in Science in Software Development (NFQ Level 8) at Atlantic Technological University / GMIT.
+- 📊 I’m actively looking for opportunities as a Junior Data Analyst.
+Skilled in: Excel, SQL, Power BI, Python, R, data cleaning, analysis, reporting, and visualization)
+- 📈 I’m passionate about improving my skills and gaining hands-on experience through real analytical work and collaboration.
+- 📫 You can reach me at: marinanikon07@gmail.com
 
 ### My Projects
 - [Filtering_an_Image](https://github.com/MarinaNikon/Filtering_an_Image)
@@ -146,10 +50,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marinanikon&theme=tokyonight" />
 </p>
-
-
-
-
-
-
-
