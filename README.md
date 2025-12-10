@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Marina Nikon</h1>
+<h1 align="center">Hi 👋, I'm Marina Nikon</h1>
 
 <p align="center">
   <img src="kartinka.webp" width="250" alt="Profile image"/>
@@ -53,7 +53,7 @@ Here are some of the coursework and study projects I completed:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats Рш еруку
 
 <p align="center">
   <img src="https://github-readme-stats-b2e6p7s8q-marinanikons-projects.vercel.app/api?username=marinanikon&show_icons=true&theme=tokyonight" />
