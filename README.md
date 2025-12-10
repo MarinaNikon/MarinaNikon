@@ -70,5 +70,11 @@ Here are some of the coursework and study projects I completed:
 ##привет
 
 
+![Marina's GitHub Stats](https://github-readme-stats-b2e6p7s8q-marinanikons-projects.vercel.app/api?username=Marinanikon&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarinaNikon&theme=tokyonight)
 
+## or
+![Marina's GitHub Stats](https://github-readme-stats-b2e6p7s8q-marinanikons-projects.vercel.app/api?username=Marinanikon&show_icons=true&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-stats-b2e6p7s8q-marinanikons-projects.vercel.app/api?username=Marinanikon&show_icons=true&theme=tokyonight" />
+</div>
