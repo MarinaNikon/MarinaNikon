@@ -90,8 +90,4 @@ Here are some of the coursework and study projects I completed:
 ![](https://komarev.com/ghvc/?username=MarinaNikon&label=Profile%20views&color=blue)
 
 
-![]([https://komarev.com/ghvc/?username=MarinaNikon&label=Profile%20views&color=blue]
-
-(https://komarev.com/ghvc/?username=MarinaNikon&label=Profile%20views&color=blue)
-
 
