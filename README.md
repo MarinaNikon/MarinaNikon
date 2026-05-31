@@ -3,9 +3,7 @@
 <p align="center">
   <img src="kartinka.webp" width="250" alt="Profile image"/>
 </p>
-![](https://u8views.com/api/v1/github/profiles/MarinaNikon/views/badge.svg)
 ---
-![](https://u8views.com/api/v1/github/profiles/MarinaNikon/views/badge.svg)
 ## 👩‍💻 About Me
 
 🏡 Working remotely part-time while balancing family life.  
@@ -86,9 +84,7 @@ Here are some of the coursework and study projects I completed:
 
 <!--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marinanikon&theme=tokyonight)-->
 
-
-![](https://komarev.com/ghvc/?username=MarinaNikon&label=Profile%20views&color=blue)
-
-
-![](https://u8views.com/api/v1/github/profiles/MarinaNikon/views/badge.svg)
+<p align="center">
+  <img src="https://komarev.com/ghvc/?username=MarinaNikon&label=Profile%20views&color=blue" alt="Profile Views" />
+</p>
 
