@@ -3,9 +3,9 @@
 <p align="center">
   <img src="kartinka.webp" width="250" alt="Profile image"/>
 </p>
-
+![](https://u8views.com/api/v1/github/profiles/MarinaNikon/views/badge.svg)
 ---
-
+![](https://u8views.com/api/v1/github/profiles/MarinaNikon/views/badge.svg)
 ## 👩‍💻 About Me
 
 🏡 Working remotely part-time while balancing family life.  
