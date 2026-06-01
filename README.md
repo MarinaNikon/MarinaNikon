@@ -3,7 +3,7 @@
 <p align="center">
   <img src="kartinka.webp" width="250" alt="Profile image"/>
 </p>
----
+
 ## 👩‍💻 About Me
 
 🏡 Working remotely part-time while balancing family life.  
@@ -85,17 +85,6 @@ Here are some of the coursework and study projects I completed:
 <!--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarinaNikon&theme=tokyonight)-->
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/MarinaNikon/count.svg?v=3" alt="Profile Views" />
+  <img src="https://hits.dwyl.com/MarinaNikon/MarinaNikon.svg" alt="Profile Views" />
 </p>
-
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/MarinaNikon/count.svg?v=1" alt="Profile Views" />
-</p>
-
-
-<p align="center">
-  <img src="https://hit.yhype.me/github/profile?user_id=MarinaNikon&v=1" alt="Views" />
-</p>
-
 
