@@ -54,35 +54,35 @@ Here are some of the coursework and study projects I completed:
 <!--## 📊 GitHub Stats-->
 
 <!--<p align="center">-->
-  <!--<img src="https://github-readme-stats-b2e6p7s8q-marinanikons-projects.vercel.app/api?username=marinanikon&show_icons=true&theme=tokyonight" />-->
+  <!--<img src="https://github-readme-stats-b2e6p7s8q-marinanikons-projects.vercel.app/api?username=MariNanikon&show_icons=true&theme=tokyonight" />-->
 <!--</p>-->
 
 <!--<p align="center">-->
-  <!--<img src="https://github-readme-stats-b2e6p7s8q-marinanikons-projects.vercel.app/api/top-langs?username=marinanikon&layout=compact&theme=tokyonight" />-->
+  <!--<img src="https://github-readme-stats-b2e6p7s8q-marinanikons-projects.vercel.app/api/top-langs?username=MarinaNikon&layout=compact&theme=tokyonight" />-->
 <!--</p>-->
 
 <!--<p align="center">-->
-  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=marinanikon&theme=tokyonight" />-->
+  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=MarinaNikon&theme=tokyonight" />-->
 <!--</p>-->
 
 <!--##привет-->
 
 
-<!--![Marina's GitHub Stats](https://github-readme-stats-b2e6p7s8q-marinanikons-projects.vercel.app/api?username=Marinanikon&show_icons=true&theme=tokyonight)-->
+<!--![Marina's GitHub Stats](https://github-readme-stats-b2e6p7s8q-marinanikons-projects.vercel.app/api?username=MarinaNikon&show_icons=true&theme=tokyonight)-->
 <!--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarinaNikon&theme=tokyonight)-->
 
 <!--## or-->
-<!--![Marina's GitHub Stats](https://github-readme-stats-b2e6p7s8q-marinanikons-projects.vercel.app/api?username=Marinanikon&show_icons=true&theme=tokyonight)-->
+<!--![Marina's GitHub Stats](https://github-readme-stats-b2e6p7s8q-marinanikons-projects.vercel.app/api?username=MarinaNikon&show_icons=true&theme=tokyonight)-->
 <!--<div align="center">-->
-  <!--<img src="https://github-readme-stats-b2e6p7s8q-marinanikons-projects.vercel.app/api?username=Marinanikon&show_icons=true&theme=tokyonight" />-->
+  <!--<img src="https://github-readme-stats-b2e6p7s8q-marinanikons-projects.vercel.app/api?username=MarinaNikon&show_icons=true&theme=tokyonight" />-->
 <!--</div>-->
 
 
 <!--### GitHub Stats-->
 
-<!--![Marina's GitHub Stats](https://github-readme-stats-b2e6p7s8q-marinanikons-projects.vercel.app/api?username=marinanikon&show_icons=true&theme=tokyonight)-->
+<!--![Marina's GitHub Stats](https://github-readme-stats-b2e6p7s8q-marinanikons-projects.vercel.app/api?username=MarinaNikon&show_icons=true&theme=tokyonight)-->
 
-<!--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marinanikon&theme=tokyonight)-->
+<!--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarinaNikon&theme=tokyonight)-->
 
 <p align="center">
   <img src="https://komarev.com/ghvc/?username=MarinaNikon&label=Profile%20views&color=blue" alt="Profile Views" />
