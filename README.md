@@ -51,7 +51,7 @@ Here are some of the coursework and study projects I completed:
 
 ---
 
-<!--## 📊 GitHub Stats-->
+## 📊 GitHub Stats
 
 <!--<p align="center">-->
   <!--<img src="https://github-readme-stats-b2e6p7s8q-marinanikons-projects.vercel.app/api?username=MariNanikon&show_icons=true&theme=tokyonight" />-->
@@ -61,9 +61,9 @@ Here are some of the coursework and study projects I completed:
   <!--<img src="https://github-readme-stats-b2e6p7s8q-marinanikons-projects.vercel.app/api/top-langs?username=MarinaNikon&layout=compact&theme=tokyonight" />-->
 <!--</p>-->
 
-<!--<p align="center">-->
-  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=MarinaNikon&theme=tokyonight" />-->
-<!--</p>-->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarinaNikon&theme=tokyonight" />
+</p>
 
 <!--##привет-->
 
@@ -84,7 +84,5 @@ Here are some of the coursework and study projects I completed:
 
 <!--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarinaNikon&theme=tokyonight)-->
 
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?page=MarinaNikon&label=Profile%20Views&color=007acc&style=flat" alt="Views" />
-</p>
+
 
