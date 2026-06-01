@@ -89,6 +89,13 @@ Here are some of the coursework and study projects I completed:
 </p>
 
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/MarinaNikon/count.svg?v=1" alt="Profile Views" />
+</p>
 
+
+<p align="center">
+  <img src="https://hit.yhype.me/github/profile?user_id=MarinaNikon&v=1" alt="Views" />
+</p>
 
 
