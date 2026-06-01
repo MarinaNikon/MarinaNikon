@@ -85,6 +85,6 @@ Here are some of the coursework and study projects I completed:
 <!--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarinaNikon&theme=tokyonight)-->
 
 <p align="center">
-  <img src="https://hits.dwyl.com/MarinaNikon/MarinaNikon.svg" alt="Profile Views" />
+  <img src="https://api.visitorbadge.io/api/visitors?page=MarinaNikon&label=Profile%20Views&color=007acc&style=flat" alt="Views" />
 </p>
 
